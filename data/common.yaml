@@ -1,0 +1,4 @@
+---
+paw_ansible_role_nfs::nfs_exports: []
+paw_ansible_role_nfs::nfs_rpcbind_state: started
+paw_ansible_role_nfs::nfs_rpcbind_enabled: true
